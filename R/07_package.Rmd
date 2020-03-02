@@ -1,0 +1,75 @@
+---
+title: "R Package Overview"
+author: Patrick Eslick
+date: February 2, 2020
+output: ioslides_presentation
+---
+
+# What is an R package?
+
+## The basics
+
+## Why to write an R Package | Benefits
+
+## Why not to write an R Package | Considerations
+
+# Basic package mechanics
+
+## Creating a package in R Studio
+
+## Minimum required content | R folder
+
+## Minimum required content | man folder
+
+## Minimum required content | DESCRIPTION
+
+## Minimum required content | NAMESPACE
+
+# Build, check, share
+
+## What does it mean to build a package?
+
+## Check and build
+
+## Share
+
+# Other package files
+
+## Including data
+
+## README
+
+## Tests
+
+## Vignettes
+
+# Documentation
+
+## Types of documentation in R
+
+## Function level documentation with roxygen2
+
+## Example workflows using vignettes
+
+## README
+
+# Testing
+
+## Why test
+
+## Types of tests
+
+## Testing mechanics
+
+# Maintenance
+
+## User group focused support
+
+## Level of support
+
+## Setting expectations
+
+## Organizing work on GitHub
+
+
+
