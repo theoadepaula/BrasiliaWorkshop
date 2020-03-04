@@ -108,21 +108,6 @@ maps::map(database = 'world',
 # What are some things you notice with the code?
 #   Syntax, indentation, spacing, commas, parantheses, colors, etc?
 
-##### Things I forgot to say #####
-
-# What happens when you forget a parentheses? 
-#   E.g. max(2
-#   Use Escape key to get out of the error
-
-# All keyboard shortcuts: ALT + SHIFT + K
-# Using `##` as headers in scripts
-#   Click titles at bottom of script pane to 
-#   jump to different sections 
-# Using CTRL + F to find things in a script
-# CTRL + SHIFT + F to find things in larger scope
-# CTRL + I to auto-indent
-# Package help + vignettes 
-#   Click on package name in packages tab
 
 ##### Viewing the R Markdown report, "data_workflow.Rmd" #####
 

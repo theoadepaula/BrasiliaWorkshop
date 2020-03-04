@@ -4,9 +4,4 @@
 
 ##### Statistical tests #####
 
-?t.test
-
 ##### Regression Models ###### 
-
-?lm
-

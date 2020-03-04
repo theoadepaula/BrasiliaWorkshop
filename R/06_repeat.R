@@ -1,10 +1,8 @@
-# Repeat (loops, if-else, and functions)
+#  Lesson 6: Repeat
 
 ##### Loops #####
 
-
 ##### If-else #####
-
 
 ##### Functions #####
 
