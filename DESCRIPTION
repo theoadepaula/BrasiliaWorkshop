@@ -1,0 +1,14 @@
+Package: BrasiliaWorkshop
+Type: Package
+Title: Practice For Our Workshop
+Version: 0.1.0
+Author: Patrick Eslick-Huff <peslick-huff@usgs.gov>
+Maintainer: Patrick Eslick-Huff <peslick-huff@usgs.gov>
+Description: Provide files to practice with.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
