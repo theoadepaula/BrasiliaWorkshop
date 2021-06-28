@@ -11,7 +11,7 @@
 #' 
 #' @examples 
 #' 
-#' model <- lm(mpg ~ wt, data = mtcars)
+#' model <- lm(mpg~wt, data = mtcars)
 #' plot <- plot_residuals(model)
 
 plot_residuals <- function(model) {
@@ -26,7 +26,7 @@ plot_residuals <- function(model) {
   # ?fitted.values
   # ?residuals
   
-  # Make a data frame with these two vectors using data.frame()
+  # Make a data frame with these two vectors using data.frame() 
   
   residual_df <- data.frame()
   

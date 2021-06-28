@@ -7,7 +7,7 @@
 plot_residuals(model)
 }
 \arguments{
-\item{model}{}
+\item{model}{an lm object.}
 }
 \value{
 a ggplot object
@@ -17,6 +17,6 @@ Make a plot of residuals vs fitted values
 }
 \examples{
 
-model <- lm(mpg ~ wt, data = mtcars)
+model <- lm(mpg~wt, data = mtcars)
 plot <- plot_residuals(model)
 }
